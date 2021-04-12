@@ -1,1 +1,1 @@
-# Tekijät: Rasmus Nurro, Matias Nissilä
+# Simppeli-nettisivu-lol
